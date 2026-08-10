@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-boutg2.juragan89site.store/sitemap.xml
